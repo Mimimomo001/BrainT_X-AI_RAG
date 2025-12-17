@@ -14,10 +14,15 @@ Explainable Brain Tumor Detection with Visual RAG. An end-to-end Vision AI syste
   - Early stopping based on validation ROC-AUC
 ## Final validation metrics:
   loss: 0.2859
+  
   acc: 0.9151
+  
   precision: 0.9289
+  
   recall: 0.9310
+  
   f1: 0.9299
+  
   auc: 0.9700
 
 <img width="1182" height="380" alt="image" src="https://github.com/user-attachments/assets/2d5ba71c-b7a4-46cf-97aa-c510c7cd86a7" />
